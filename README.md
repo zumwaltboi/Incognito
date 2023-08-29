@@ -41,9 +41,7 @@ You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. [Read m
     <a href="https://amethystnetwork-dev.github.io/docs/projects/incognito/manual-deployment/#docker-with-nodejs"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></img></a>
     <br>
     <br>
-    <a href="https://alienhub.xyz/?utm_source=incog_gh&utm_medium=amethystnetwork">
-      <img src="https://alienhub.xyz/alien1.gif" width="450" height="150"></img>
-    </a>
+     </a>
 </div>
 
 ## Discord Server
